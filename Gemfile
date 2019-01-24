@@ -76,3 +76,5 @@ gem 'simple_form'
 gem 'popper_js'
 gem 'tether-rails'
 gem 'devise'
+
+gem 'bootstrap_form'
