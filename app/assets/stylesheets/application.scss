@@ -1,3 +1,9 @@
 @import "/*";
 @import "bootstrap";
 @import "tether";
+
+// Variables
+@import "base/variables";
+
+// Partials - main css files
+@import "partials/layout/*";
